@@ -1,0 +1,5 @@
+## Interface: 60000
+## Title: Advanced Blizzard ActionBars
+## Version: 3.0
+## Author: Sinaris
+## Website: http://www.AsphyxiaUI.de
