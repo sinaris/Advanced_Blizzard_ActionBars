@@ -6,3 +6,5 @@
 ## SavedVariablesPerCharacter: ataCoreCDB
 ## Credits:
 ## Website: http://www.AsphyxiaUI.de
+
+Developer\Developer.lua
